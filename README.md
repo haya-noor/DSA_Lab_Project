@@ -5,7 +5,3 @@ The user's credentials are stored in the hash table after entering all the neces
 A function exists that allows users to view their credentials. 
 There is a function that can output the data for each user and output how many users are hash to the same index.
 
-
-Course Name: CS221 Lab
-University Name: Ghulam Ishaq Khan Institute of Engineering sciences and technology
-Instructor Name: Usama JanJua
